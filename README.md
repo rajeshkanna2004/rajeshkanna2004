@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Rajesh Kanna PB
 
 🎓 Electronics and Communication Engineering Student at **St. Joseph's College of Engineering**  
-🔧 Passionate about **IoT**, **AI/ML**, **frontend development**, and **hardware-software integration**  
+🔧 Passionate about **IoT**, **AI/ML**, **full stack development**, and **hardware-software integration**  
 💡 Creating scalable, real-world tech solutions with strong UI/UX and embedded logic
 
 ---
